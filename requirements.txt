@@ -1,0 +1,8 @@
+gradio==6.16.0
+scikit-learn>=1.4
+pandas
+numpy
+openai>=1.0
+joblib
+matplotlib
+seaborn
