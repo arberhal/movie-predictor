@@ -25,10 +25,10 @@ Reference to multiple lines in `train.py`, lines 15-38:
 ## Project Metadata
 
 - Project title: Film-Erfolgsprognose (Movie Rating Prediction & Explanation)
-- Student: «dein Name»
-- GitHub repository URL: «https://github.com/dein-account/movie-success»
-- Deployment URL: https://huggingface.co/spaces/haljiarb/film-predictor
-- Submission date: «TT.MM.2026»
+- Student: Arbër Haliti
+- GitHub repository URL: https://github.com/arberhal/movie-predictor
+- Deployment URL: https://huggingface.co/spaces/haljiarb/movie-predictor
+- Submission date: 07.06.2026
 
 ### Mandatory Setup Checks
 
